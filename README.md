@@ -1,2 +1,2 @@
-# Backtrack-Sudoku-Solver-with-Python
-A backtrack algorithm to solve Sudoku Table written in Python
+# Backtracking Sudoku Solver with Python
+A backtracking algorithm to solve Sudoku Table written in Python
